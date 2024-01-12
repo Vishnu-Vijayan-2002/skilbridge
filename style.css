@@ -1,0 +1,734 @@
+*{
+    margin-right: 0;
+    padding: 0;
+    margin: 0;
+    margin-left: 0;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+.top-banner{
+    display: flex;
+    width: 1560px;
+    height: 55px;
+    background-color: orange;
+    margin: 0px 20px 0px 20px;
+    border-radius: 8px;
+}
+.top-banner p{
+    font-size: 18px;
+    margin-left: 40%;
+    margin-top: 13px;
+}
+.top-banner img{
+    width: 14.4px;
+    height: 16.8px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.btn-contianer{
+    display: flex;
+    margin-left: 78%;
+    margin-top: -50px;
+}
+.btn-contianer .btn-2{
+    margin-left: 10px;
+    background-color: orange;
+    border-color: orange;
+}
+.btn-contianer .btn-1{
+    background-color: white;
+    border-color: white;
+    color: black;
+}
+.btn-contianer .btn-1:hover{
+    background-color: orange;
+    border-color: orange;
+}
+.btn-contianer .btn-2:hover{
+    background-color: orange;
+    border-color: orange;
+}
+
+nav{
+    width: 1560px;
+    height: 55px;
+    margin: 0px 20px 0px 20px;
+}
+.btn-contianer{
+    margin-right: 132px;
+}
+nav img{
+    margin-left: 132px;
+    width: 54px;
+    height: 54px;
+    
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+.logo-container{
+    display: flex;
+    height: 55px;
+    width: 597px;
+    margin-top: 20px;
+}
+.login-container-list{
+    margin-top: 2.5%;
+    margin-left: 10%;
+}
+.login-container-list a:hover {
+    color: orange;
+}
+.body-container-1{
+    width: 965px;
+    height: 337px;
+    background-color:white;
+    margin: 69px 364px 0px 364px;
+}
+.second-logo{
+    width: 62px;
+    height: 62px;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+.body-container-header-1 p{
+    font-size: 48px;
+    margin-left: 120px;
+    margin-top: -65px;
+}
+.second-head{
+    color: orange;
+}
+.p-1{
+    font-size: 38px;
+    margin-left: 20px;
+    
+}
+.p-2{
+    font-size: 18px;
+    margin-left: 200px;
+}
+.btn-3-container .btn-3{
+    background-color: orange;
+    border-color: orange;
+}
+.btn-3-container{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.btn-3-container .btn-4{
+    background-color: white;
+    color: black;
+    border-color: white;
+}
+.btn-3-container .btn-4 a{
+    text-decoration: none;
+    color: black;
+}
+.btn-3-container .btn-4 :hover{
+    color: white;
+}
+.btn-3-container button:hover {
+    background-color: orange;
+    border-color: orange;
+}
+.add-container{
+    margin-top: 100px;
+    margin-left: -20px;
+    width: 1295px;
+    height: 60px;
+    background-color: white;
+    margin-left: 220px;
+    cursor: pointer;
+}
+.add-container-list{
+    display: flex;
+    width: 219.29px;
+    margin-left: -20px;
+    padding-top: 15px;  
+}
+.add-container-list img{
+    width: 99.17px;
+    height: 34px;
+    margin-left: 70px;
+}
+.video-container{
+    margin-top: 90px;
+    width: 1295px;
+    height: 790px;
+    margin-left: 180px;
+    border-radius: 10px;
+}
+.video-container img{
+    width: 1295px;
+    height: 790px;
+}
+.benefit-container{
+    width: 1295px;
+    background-color: white;
+    height: 800px;
+    margin-left: 180px;
+    margin-top: 60px;
+}
+.benefit-container-list{
+    justify-content: space-between;
+    display: flex;
+    height: 132px;
+    background-color: white;
+}
+.paragraph-1{
+    margin-top: 50px;
+    margin-left: -110px;
+    font-size: 15px;
+} 
+.benefit-container-list .benefit-btn{
+    margin-right: 150px;
+    margin-top: 70px;
+}
+.benefit-btn button{
+    margin-right: -160px;
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    width: 70px;
+    height: 35px;
+    border-color: white;
+}
+.benefit-btn button:hover {
+   background-color: orange;
+   border-color: orange;
+    
+}
+.benefit-head{
+    font-weight: 600;
+}
+.card-body img{
+    margin-left: 80%;
+    width: 34px;
+    height: 34px;
+    cursor: pointer;
+}
+.card-body .card-title{
+    margin-top: 30px;
+    margin-left: 70%;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 70px;
+}
+.card{
+    width: 619px;
+    height: 437px;
+    margin-left: 24px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 1.5px rgb(0,0,0,0.15);
+    border: none;
+}
+.card-body h6{
+    font-size: 19px;
+    font-weight: 600;
+    
+}
+.card-body p{
+    font-size: 15px;
+}
+.benefit-container-cards{
+    display: flex;
+}
+.benefit-btn button{
+    margin-left: 50px;
+}
+.courses-contaier span{
+   margin-left: 10px;
+}
+.benefit-head{
+    margin-left: 10px;
+}
+.courses-contaier .paragraph-1{
+    margin-left: -160px;
+}
+.courses-contaier1 img{
+    width: 7550px;
+    height: 380px;
+    margin-left: 2px;
+    margin-bottom: 20px;
+}
+.get-now-btn{
+    width: 100%;
+}
+ .courses-contaier1 button{
+    background-color: rgb(225, 225, 235);
+    border-color:  rgb(225, 225, 235);
+    color: black;
+    font-size: 15px;
+}
+.courses-contaier1 button:hover{
+    background-color: orange;
+    border-color: orange;
+}
+.courses-contaier1 .btn-secondary1{
+    margin-left: 5px;
+
+}
+.courses-contaier1 a{
+  margin-left: 230px;
+}
+.courses-contaier1 h5,a{
+   margin-top: 20px;
+   font-weight: 600;
+}
+.testimonials span{
+    margin-left: 15px;
+    margin-top: 10px;
+ }
+ .testimonials{
+    margin-bottom: 50px;
+    margin-top: 50px;
+ }
+ .testimonials-head{
+     margin-top: 30px;
+     width: 400px;
+ }
+ .paragraph-3{
+    margin-top: 90px;
+    margin-left: -230px;
+ }
+ .testimonials-card{
+    display: flex;
+ }
+ .testimonials-card-details{
+    display: flex;
+ }
+ .testimonials-card p{
+    font-size: 18px;
+ }
+ .testimonials-btns{
+    margin-top: 40px;
+ }
+ .testimonials-card-details p{
+    font-size: 18px;
+    margin-left: 15px;
+    margin-top: 30px;
+ }
+ .testimonials-card-details img{
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+ }
+ .testimonials-card-details  .btn-primary{
+    width: 130px;
+    height: 35px; 
+    margin-left: 320px;
+    margin-top: 25px;
+    background-color: white;
+    border-color: white;
+    color: black;
+    font-size: 9px;
+ }
+ .testimonials-card-details  .btn-primary:hover{
+    background-color: orange;
+    border-color: orange;
+ }
+ .testimonials-card-details{
+    margin-top: 2px;
+    background-color: rgb(243, 243, 243);
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+ }
+ .pricing-btn{
+    display: flex;
+    margin-top: 80px;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+ }
+ .pricing-btn button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 6px;
+    margin-right: 5px;
+    font-size: 9px;
+    background-color: orange;
+    border-color: orange;
+ }
+ .pricing-btn .pricing-btn2{
+    background-color: white;
+    border-color: white;
+ }
+ .pricing-p{
+    margin-right: 150px;
+ }
+ .pricing-card-details{
+    background-color: rgb(255, 229, 182);
+    height: 55px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+ }
+  .pricing-card-body p{
+    margin-left: 42%;
+    padding-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+ } 
+ .price-tag{
+    height: 100px;
+    
+ }
+ .pricing-card-body{
+    height: 890px;
+ }
+ .price-tag p{
+    padding-top: 33px;
+    font-weight: 600;
+    font-size: 33px;
+    margin-left: 240px;
+ }
+ .price-tag span{
+    font-size: 15px;
+    font-weight: 400;
+ }
+ .available-features{
+    width: 100%;
+    height: 650px;
+   
+    margin-top: 107px;
+ }
+ .available-features p{
+    margin-left: 35%;
+    padding-top: 30px;
+    font-weight: 600;
+ }
+ .available-list{
+    margin-left: 85px;
+    margin-right: 85px;
+    height: 590px;
+   
+ }
+ .avaailable-list-item{
+    margin-top: 20px;
+    width: 390px;
+    height: 50px;
+    
+ }
+ .avaailable-list-item img{
+    margin-left: 60px;
+    margin-top: 25px;
+    width: 25px;
+    height: 25px;
+ }
+ .avaailable-list-item .features{
+    color: black;
+    margin-left: 100px;
+    font-size: 12px;
+    margin-top: -55px;
+ }
+.w-50 .f-sub1{
+    font-weight: 600;
+    font-size: 40px;
+}
+.w-50 .f-btn:hover{
+    background-color: orange;
+    border-color: orange;
+}
+.footer{
+    margin-top: 20px;
+    width: 1750px;
+    height: 300px;
+    background-color: rgb(198, 198, 198);
+    margin-left: -150px;
+}
+.footer-icon-item{
+    margin-left: 150px;
+    padding-top: 30px;
+}
+.footer-icon-item a{
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+    font-size: 10px;
+}
+.footer-icon-item li{
+    list-style: none;
+    margin-top: 10px;
+}
+.footer-icon-item span{
+    margin-left: 10px;
+}
+.footer-icon-item img{
+    width: 15px;
+    height: 15px;
+}
+.footer-icon-item .logo{
+    width: 40px;
+    height: 40px;
+}
+.footer {
+    display: flex;
+}
+.footer-icon-list{
+    padding-top: 60px;
+    margin-left: 150px;
+    font-size: 14px;
+}
+.footer-icon-list a{
+   text-decoration: none;
+   color: black;
+}
+.footer-icon-list li{
+    list-style: none;
+    margin-top: 10px;
+}
+.footer-icon-list h5{
+    font-size: 17px;
+    font-weight: 600;
+}
+.footer-icon-list{
+    display: flex;
+    margin-left: 450px;
+}
+.footer-icon-list .about{
+    margin-left: 160px;
+}
+
+.social-midea a{
+    margin-left: 20px;
+}
+.social-midea h5{
+    margin-left: 60px;
+}
+.div{
+    display: flex;
+    margin-left: 40px;
+}
+.upper-footer {
+    padding-top: 250px;
+    margin-left: -760px;
+    font-weight: 600;
+    font-size: 10px;
+}
+.student-testimonials{
+    width: 500px;
+    margin-left: 170px;
+    margin-top: 50px;
+
+}
+.student-testimonials h3{
+    font-weight: 600;
+    margin-left: 20px;
+}
+.student-testimonials p{
+    margin-left: 30px;
+}
+.login-page{
+    width: 540px;
+    height: 602px;
+    border: rgb(0,0,0,0.15) solid;
+    border-radius: 5px;
+    margin-right: 60px;
+}
+.login-page button{
+    background-color: orange;
+    border-color: orange;
+}
+.main-login{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.login-page h3{
+    margin-left: 45%;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.login-page p{
+    margin-left: 70px;
+    font-weight: 600;
+}
+.login-page .mb-3{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.login-page a{
+    text-decoration: none;
+    color: black;
+    font-weight: 550;
+    margin-left: 340px;
+}
+.login-page button{
+    margin-left: 20px;
+    width: 500px;
+}
+.login-page label{
+    font-weight: 600;
+}
+.login-page .or{
+    margin-left: 30px;
+    font-weight: 550;
+    margin-top: 30px;
+}
+.login-page img{
+    width: 20px;
+    height: 20px;
+    margin-left: -10px;
+}
+.login-page .google-btn{
+    background-color: white;
+    border-color: black;
+    
+}
+.login-page .google-btn:hover{
+    background-color: orange;
+}
+.login-page .dont-p{
+    font-weight: 550;
+    margin-top: 40px;
+    margin-left: 160px;
+    cursor: pointer;
+}
+@media (max-width:470px){
+    .student-testimonials{
+       margin-left: 390px;
+       margin-top: 200px;
+    }
+    .login-page{
+        margin-top: 210px;
+        margin-left: 470px;
+        margin-bottom: 900px;
+    }
+    .main-login{
+        display: block;
+    }
+    .top-banner{
+    width: 1270px;
+    margin-left: 80px;
+    }
+    .top-banner p{
+        margin-left: 440px;
+    }
+    nav{
+        margin-left: 0px;
+    }
+    .login-container-list{
+        margin-left: 5px;
+    }
+    nav .btn-contianer{
+        margin-left: 550px;
+        margin-top: 30px;
+    }
+    .second-head {
+        font-size: 50px;
+    }
+    .body-container-header-1 p{
+        font-size: 50px;
+        margin-top: -40px;
+    }
+    .body-container-header-1 img{
+        width: 40px;
+        height: 40px;
+    }
+ .p-1{
+        font-size: 25px;
+        margin-left: 170px;
+    }
+    .p-2{
+        margin-left: 200px;
+        font-size: 20px;
+    }
+    .btn-3-container button{
+        width: 100px;
+        height: 30px;
+        font-size: 8px;
+        margin-left: 55px;
+    }
+    .btn-3-container .btn-4{
+        margin-left: 10px;
+    }
+    .body-container-1{
+        width: 900px;
+        margin-left: 290px;
+    }
+    .add-container-list img{
+        margin-top: -250px;
+        width: 90px;
+        height: 50px;
+        margin-left: 65px;
+    }
+    .add-container-list {
+        width: 950px;
+        height: 400px;
+        margin-left: -70px;
+        
+    }
+    .video-container img{
+        width: 1270px;
+        height: 450px;
+        margin-top: -140px;
+        margin-left: -100px;
+    }
+    .benefit-container-list{
+        width: 1200px;
+        
+    }
+    .benefit-container-list h2{
+        margin-left: -30px;
+    }
+    .benefit-container{
+        margin-top: -470px;
+    }
+    .our_courses{
+        margin-top:1350px;
+    }
+    .benefit-container-cards{
+        display: block;
+        margin-left: 200px;
+    }
+   .testimonials-card{
+    display: block;
+    margin-top: 20px;
+   }
+   .accordion{
+    margin-top: 300px;
+    margin-left: -620px;
+   }
+   .footer{
+    display: block;
+    width: 1650px;
+    height: 100%;
+   
+   }
+   .card{
+    width: 970px;
+   }
+   .pricing-card-details p{
+    margin-left: 470px;
+   }
+   .testimonials-card{
+    margin-left:140px;
+   }
+   .available-features{
+    margin-left: 200px;
+   }
+   .available-features p{
+    margin-left: 230px;
+   }
+   .footer-icon-list{
+    display: block;
+   }
+   .home{
+    margin-left: -240px;
+   }
+   .about{
+    margin-top: -350px;
+   
+   }
+   .social-midea{
+    margin-top: 110px;
+    margin-left: -60px;
+   }
+}
+.pricinghtml{
+    margin-left: 130px;
+}
+.pricingcard{
+   margin-left: 110px;
+}
